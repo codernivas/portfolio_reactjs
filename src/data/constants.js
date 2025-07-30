@@ -16,7 +16,7 @@ export const Bio = {
   linkedin: "https://www.linkedin.com/in/nivas-bn-2200171b9/",
   twitter: "https://x.com/Nivas22051997?s=09",
   insta: "https://www.instagram.com/_jerry_nivas_?igsh=N2UxcTF0cTh5dWl0",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  facebook: "https://www.facebook.com/nivasbn/",
 };
 
 export const skills = [
@@ -266,54 +266,45 @@ export const education = [
 export const projects = [
   {
     id: 9,
-    title: "Trackify",
+    title: "Movie Site",
     date: "Jun 2023 - Jul 2023",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "Movie Site is a web application designed to explore the OTT movies in a single application",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "https://raw.githubusercontent.com/codernivas/portfolio_reactjs/e1f284bdbc2b851364c34ba887af4c20698a6da9/public/movie_site.png",
     tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
+      "TMDB",
       "Eslint",
-      "Husky",
-      "CI/CD",
+      "Typescript",   
       "React Js",
       "MongoDb",
       "Node Js",
       "Express Js",
       "Redux",
+      "firebase"
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
+    github: "https://github.com/codernivas/moviesite.github.io",
+    webapp: "https://nivas-moviesite.netlify.app/",
   },
   {
     id: 0,
-    title: "Podstream",
-    date: "Apr 2023 - May 2023",
-    description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+    title: "CRM Dashboard",
+    date: "June 2025 - Aug 2025",
+    description:"Developed a web-based Customer Relationship Management (CRM) system to manage leads, track customer interactions, automate sales processes, and generate reports. Included features like user authentication, role-based access, real-time dashboards, and task reminders using React, Node.js, and PostgreSQL.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://raw.githubusercontent.com/codernivas/portfolio_reactjs/6bb71ff182d42b6431e7015815fea5cccaa1d52e/public/crm_img.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+    github: "https://github.com/codernivas",
+    webapp: "https://gregarious-froyo-81639f.netlify.app/leads",
     member: [
       {
         name: "Nivas BN",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
+        img: "https://github.com/codernivas/portfolio_reactjs/blob/main/public/HeroImageLogo.png?raw=true",
+        linkedin: "https://www.linkedin.com/in/nivas-bn-2200171b9/",
+        github: "https://github.com/codernivas",
+      }
     ],
   },
   {
